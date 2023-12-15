@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCServerMod", "CCServerMod.csproj", "{222CAC14-B46C-4836-9EFD-135BD1A28888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222CAC14-B46C-4836-9EFD-135BD1A28888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222CAC14-B46C-4836-9EFD-135BD1A28888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222CAC14-B46C-4836-9EFD-135BD1A28888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222CAC14-B46C-4836-9EFD-135BD1A28888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B783F0-407A-4C3F-875A-43F3F3E5544D}
+	EndGlobalSection
+EndGlobal

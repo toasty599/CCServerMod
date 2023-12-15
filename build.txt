@@ -1,0 +1,3 @@
+displayName = CC Server Mod
+author = Toasty
+version = 1.0

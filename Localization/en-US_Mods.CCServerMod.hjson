@@ -1,0 +1,52 @@
+Tiles: {
+	ForestTile.MapEntry: Forest Tile
+	DesertTile.MapEntry: Desert Tile
+	SnowTile.MapEntry: Snow Tile
+	CorruptionTile.MapEntry: Corruption Tile
+	CrimsonTile.MapEntry: Crimson Tile
+	JungleTile.MapEntry: Jungle Tile
+	MushroomTile.MapEntry: Mushroom Tile
+	HallowTile.MapEntry: Hallow Tile
+}
+
+Items: {
+	ForestItem: {
+		DisplayName: Forest Item
+		Tooltip: ""
+	}
+
+	DesertItem: {
+		DisplayName: Desert Item
+		Tooltip: ""
+	}
+
+	SnowItem: {
+		DisplayName: Snow Item
+		Tooltip: ""
+	}
+
+	CorruptionItem: {
+		DisplayName: Corruption Item
+		Tooltip: ""
+	}
+
+	CrimsonItem: {
+		DisplayName: Crimson Item
+		Tooltip: ""
+	}
+
+	JungleItem: {
+		DisplayName: Jungle Item
+		Tooltip: ""
+	}
+
+	MushroomItem: {
+		DisplayName: Mushroom Item
+		Tooltip: ""
+	}
+
+	HallowItem: {
+		DisplayName: Hallow Item
+		Tooltip: ""
+	}
+}
