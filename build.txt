@@ -1,3 +1,4 @@
 displayName = CC Server Mod
 author = Toasty
 version = 1.0
+homepage = https://github.com/toasty599/CCServerMod
