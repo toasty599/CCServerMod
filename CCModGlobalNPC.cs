@@ -37,7 +37,7 @@ namespace CCServerMod
 
 		public override void OnChatButtonClicked(NPC npc, bool firstButton)
 		{
-			if (npc.type != NPCID.Angler || Main.netMode is NetmodeID.Server)
+			if (npc.type != NPCID.Angler || Main.netMode is NetmodeID.Server || !Main.anglerQuestFinished)
 				return;
 
 			if (Main.netMode is NetmodeID.SinglePlayer)
